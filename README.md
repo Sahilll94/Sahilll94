@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Sahil! 👋
 
-<!--
-**Sahilll94/Sahilll94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 I'm currently a student at SRM University, Chennai, with a passion for computer science and self-development. I completed my class 12th with a focus on computer science and have been exploring various fields ever since.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills
+
+- **Self-development**
+- **Cloud Computing**: Google Cloud Platform, AWS
+- **Web Development**
+- **Machine Learning**
+- **Programming Languages**: Python, C, C++
+
+## 🚀 Current Focus
+
+🤖 I'm currently diving deep into Machine Learning and sharpening my skills in Data Structures & Algorithms (DSA) using C++. I challenge myself with problem-solving tasks on platforms like LeetCode. Each day, I strive to learn new technologies, believing in continuous growth and learning as essential components of success.
+
+## 📫 Let's Connect!
+
+Feel free to reach out to me through:
+
+- **Email**: [Your Email Address]
+- **LinkedIn**: [Your LinkedIn Profile URL]
+- **Twitter**: [Your Twitter Handle]
+
+## 📝 License
+
+[Specify the license under which your code is available.]
+
+[License type, e.g., MIT License]
