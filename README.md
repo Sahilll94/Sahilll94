@@ -20,7 +20,7 @@
 
 Feel free to reach out to me through:
 
-- **Email**: [Email Address](sahilk64555@gmail.com)
+- **Email**: sahilk64555@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile URL]
 - **Twitter**: [Your Twitter Handle]
 
