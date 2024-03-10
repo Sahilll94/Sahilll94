@@ -21,8 +21,8 @@
 Feel free to reach out to me through:
 
 - **Email**: sahilk64555@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile URL](https://www.linkedin.com/in/sahilll94/)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/Sa_hilll94)
+- **LinkedIn**: [My Linkedln Profile](https://www.linkedin.com/in/sahilll94/)
+- **Twitter**: [My Twitter Handle](https://twitter.com/Sa_hilll94)
 
 ## 📝 License
 
