@@ -26,6 +26,4 @@ Feel free to reach out to me through:
 
 ## 📝 License
 
-[Specify the license under which your code is available.]
-
-[License type, e.g., MIT License]
+This Readme.md is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
