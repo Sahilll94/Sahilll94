@@ -1,4 +1,4 @@
-# Hi, I'm Sahil! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=My+name+is+Sahil!+%F0%9F%91%8B;Enthusiastic+tech+enthusiast.)](https://git.io/typing-svg)
 
 ## About Me
 
