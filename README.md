@@ -7,14 +7,14 @@
 ## 💼 Skills
 
 - **Self-development**
-- **Cloud Computing**: Google Cloud Platform, AWS
-- **Web Development**
-- **Machine Learning**
-- **Programming Languages**: Python, C, C++
+- **Cloud Computing**: AWS.
+- **Web Development**: Express.js, MongoDB, SQL, SQLite, HTML, CSS, Javascript.
+- **Machine Learning**: Python, Pandas, Numpy 
+- **Programming Languages**: Python, C, C++, JavaScript.
 
 ## 🚀 Current Focus
 
-🤖 I'm currently diving deep into Machine Learning and sharpening my skills in Data Structures & Algorithms (DSA) using C++. I challenge myself with problem-solving tasks on platforms like LeetCode. Each day, I strive to learn new technologies, believing in continuous growth and learning as essential components of success.
+I'm currently diving deep into Machine Learning and sharpening my skills in Data Structures & Algorithms (DSA) using C++. I challenge myself with problem-solving tasks on platforms like LeetCode. Each day, I strive to learn new technologies, believing in continuous growth and learning as essential components of success.
 
 ## 📫 Let's Connect!
 
