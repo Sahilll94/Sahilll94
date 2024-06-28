@@ -29,3 +29,9 @@ Feel free to reach out to me through:
 ## 📝 License
 
 This Readme.md is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
+
+# Heading 1
+
+## heading 2
+
+### heading 3
