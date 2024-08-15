@@ -14,7 +14,7 @@
 
 ## 🚀 Current Focus
 
-I'm currently diving deep into Machine Learning and sharpening my skills in Data Structures & Algorithms (DSA) using C++. I challenge myself with problem-solving tasks on platforms like LeetCode. Each day, I strive to learn new technologies, believing in continuous growth and learning as essential components of success.
+I'm currently diving deep into Web Development and sharpening my skills in Data Structures & Algorithms (DSA) using C++. I challenge myself with problem-solving tasks on platforms like LeetCode. Each day, I strive to learn new technologies, believing in continuous growth and learning as essential components of success.
 
 ## 📫 Let's Connect!
 
