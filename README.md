@@ -21,7 +21,7 @@ I'm currently diving deep into Web Development and sharpening my skills in Data 
 Feel free to reach out to me through:
 
 - **Portfolio** : [Portfolio](https://sahilfolio.live)
-- **Email**: sahilk64555@gmail.com
+- **Email**: contact@sahilfolio.live || sahilk64555@gmail.com
 - **LinkedIn**: [My Linkedln Profile](https://www.linkedin.com/in/sahilll94/)
 - **Twitter**: [My Twitter Handle](https://twitter.com/Sa_hilll94)
 -  **Medium**: [My Medium Handle](https://medium.com/@sa_hilll94)
